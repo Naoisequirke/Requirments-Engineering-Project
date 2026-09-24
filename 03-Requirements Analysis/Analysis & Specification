@@ -1,0 +1,26 @@
+2. 
+A. Problem / observation
+B. Stakeholder need / concern
+C. Candidate requirement 
+D. Solution idea
+E. Assumption
+F. Stakeholder need / concern
+
+4. 
+1. The problem is that the requirment is too vague and broad
+    How would you like it to be more user friendly?
+   There is no specific anwser as to what they want to make the system user friendly.
+
+2. The requirment is too vague.
+   How would you like the users to be notified by the system about bookings?
+   How they would like the users to be notified by the system.
+
+3. The requirment is too vague.
+   Who would you like the staff to be able to send reminders to?
+   The specifics of the sending reminders fuction.
+
+  The system shall notify users via email about their bookings
+
+5. 
+The system shall allow the user to see what equipment is available for booking.
+The system shall allow the user to see what equipment is not available for booking when the equipment is no longer avaiable.
