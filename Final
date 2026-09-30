@@ -1,6 +1,6 @@
 #Project.
 ##A collage is providing a range of student support services, such as academic support, careers advice, learning support and other student services.
-##Currently, students may contact services by email or by phone, while staff use calenders, spreadsheets and oter informal methods to manage appoointments.
+##Currently, students may contact services by email or by phone, while staff use calenders, spreadsheets and other informal methods to manage appointments.
 ##The collage wants to investigate a software system that could make appointment management easier.
 ##Problems currenly happening are:
 ##-Students are sometimes unsure which service they should contact.
@@ -13,5 +13,19 @@
 ##-Students
 ##-Staff
 ##-Collage
+##-IT Department
+
+#Needs:
+##Services for students to contact need to be clearly shown on the system.
+##Whether we need to transfer the pervious appointments to the system or they wont use the system until all the previous appointments are finished is unclear.
+##System should automate managing appointments so that Staff shouldent need to manage them manually.
+##Staff needs to be asked about their different appointment types and availability for the system.
+
+#Goals
+##Help reduce unsureness for students about services.
+##Help reduce additional workload for staff.
+##Make changes or cancellation easier to manage.
+
+
 
 
