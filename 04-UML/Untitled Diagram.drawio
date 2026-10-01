@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="48GNwtto_FDJdu6V_4Yi">
+    <mxGraphModel dx="808" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9FeknvA5Yo72oTIGLSte-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="440" width="440" x="200" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="9FeknvA5Yo72oTIGLSte-3" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Collage Equipment Booking System&lt;/h1&gt;&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="420" x="210" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="9FeknvA5Yo72oTIGLSte-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="&lt;div&gt;Student&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="100" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="9FeknvA5Yo72oTIGLSte-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="View Equipment Availability&amp;nbsp;" vertex="1">
+          <mxGeometry height="70" width="140" x="350" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="9FeknvA5Yo72oTIGLSte-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Create Booking" vertex="1">
+          <mxGeometry height="70" width="140" x="350" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="9FeknvA5Yo72oTIGLSte-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;div&gt;Record Equipment Return&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="350" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="9FeknvA5Yo72oTIGLSte-12" edge="1" parent="1" source="9FeknvA5Yo72oTIGLSte-4" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" target="9FeknvA5Yo72oTIGLSte-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="430" as="sourcePoint" />
+            <mxPoint x="450" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9FeknvA5Yo72oTIGLSte-13" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Equipment Technician" vertex="1">
+          <mxGeometry height="60" width="30" x="100" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="9FeknvA5Yo72oTIGLSte-15" edge="1" parent="1" source="9FeknvA5Yo72oTIGLSte-13" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="9FeknvA5Yo72oTIGLSte-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9FeknvA5Yo72oTIGLSte-16" edge="1" parent="1" source="9FeknvA5Yo72oTIGLSte-4" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="9FeknvA5Yo72oTIGLSte-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9FeknvA5Yo72oTIGLSte-18" edge="1" parent="1" source="9FeknvA5Yo72oTIGLSte-13" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="9FeknvA5Yo72oTIGLSte-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
