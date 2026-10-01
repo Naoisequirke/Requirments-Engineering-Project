@@ -1,6 +1,12 @@
 #Part 2
 ##1. To have a user be able to view equipment availability for a slected data.
 ##2. View Equipment Availability.
-##3. No, it us just any user on the system.
+##3. No, it is just any user on the system.
 ##4. Is this fuction to be given to any user who uses the system or to specific ones?
-##
+##5. "The system shall allow the user to see what equipment is not available for booking when the equipment is no longer avaiable."
+      - To allow the user to see what equipment is not available when it it no longer available.
+      - View Unavaiable Equipment.
+      - No. it is just any user on the system.
+      - Is this fuction to be given to any user who uses the system or to specific ones?
+#Part 6
+##Students and Equipment Technician.
