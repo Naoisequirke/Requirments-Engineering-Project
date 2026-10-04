@@ -19,12 +19,32 @@
 ##Services for students to contact need to be clearly shown on the system.
 ##Whether we need to transfer the pervious appointments to the system or they wont use the system until all the previous appointments are finished is unclear.
 ##System should automate managing appointments so that Staff shouldent need to manage them manually.
-##Staff needs to be asked about their different appointment types and availability for the system.
+##Staff need to be asked about their different appointment types and availability for the system.
 
 #Goals
 ##Help reduce unsureness for students about services.
 ##Help reduce additional workload for staff.
 ##Make changes or cancellation easier to manage.
+
+Scope:
+
+
+Assumptions:
+That all users have access to wifi.
+That the collage has a plan for the transfer to the new system.
+That we will be shown the contact info for the services for students.
+
+Unknowns:
+If the collage wants to transfer the appointments to the system or wait until all appoints are finished to implaemnt the new system.
+if the system needs a login to access or not.
+if there needs to be diffent login types for diffent users, aka staff and students.
+
+
+Requirements:
+The system shall display the contact info for student services.
+The system shall stop the need for staff to manually ajust the appointments.
+The system will protect info about students and appointments.
+
 
 
 
