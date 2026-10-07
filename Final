@@ -31,19 +31,27 @@ Scope:
 
 Assumptions:
 That all users have access to wifi.
-That the collage has a plan for the transfer to the new system.
+That the collage has a plan for the transfer to the new system if they are implamenting the system before all the appointments are done.
 That we will be shown the contact info for the services for students.
 
 Unknowns:
 If the collage wants to transfer the appointments to the system or wait until all appoints are finished to implaemnt the new system.
 if the system needs a login to access or not.
 if there needs to be diffent login types for diffent users, aka staff and students.
+if the staff need to check the system to see appointments for them or are sent an email.
 
 
 Requirements:
+The system shall display when appointments are currently available. 
 The system shall display the contact info for student services.
-The system shall stop the need for staff to manually ajust the appointments.
+The system shall stop the need for staff to manually adjust the appointments by managing the appointments.
 The system will protect info about students and appointments.
+The system shall take given a appointments and will add them to that lectuers appointments secudule.
+
+
+
+
+
 
 
 
