@@ -1,0 +1,23 @@
+Part A
+make draw .io based on requirements
+
+Task 1A
+1. FR02
+2. FR03
+3. FR04 and FR05
+
+Task B1
+Booking, Class, FR02
+Start date, Attribute, FR03 
+Equipment, Class, FR01 FR05
+Review, Action, FR04
+Staff Member, Class, FR05
+
+Task B2
+Students are attend the collage and are one of the type of users using the Collages equipment booking system
+Equipment will be what the users will be booking in the collage booking system.
+Staff member are also the one of the of types of users that use the collage equipment booking system.
+Bookings is the perpose behind the system.
+
+Task B3
+Would
