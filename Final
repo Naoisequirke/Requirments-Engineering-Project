@@ -13,7 +13,6 @@
 ##-Students
 ##-Staff
 ##-Collage
-##-IT Department
 
 #Needs:
 ##Services for students to contact need to be clearly shown on the system.
@@ -42,11 +41,18 @@ if the staff need to check the system to see appointments for them or are sent a
 
 
 Requirements:
-The system shall display when appointments are currently available. 
-The system shall display the contact info for student services.
+The system shall display appointment slots from lecterers that are currently available. 
 The system shall stop the need for staff to manually adjust the appointments by managing the appointments.
 The system will protect info about students and appointments.
 The system shall take given a appointments and will add them to that lectuers appointments secudule.
+The system shall record date of time of appointments.
+The system shall allow students to manage their appointments by creating, updating and canceling their appointments.
+The system shall allow lectures to manage, create, update their appointment slots and confirm appointments.
+The system shall send an automated email to both students and lectures of approved meeting.
+The system shall allow admin to manage students and lectuers to the system.
+The system shall allow admins to proform adminatraive tasks, how many sessions have occured in weeks or months.
+The system shall display info such as the contact info for student services and appointment in a tidy display with no other info obsuring each other.
+
 
 
 
