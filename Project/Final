@@ -52,7 +52,7 @@ The system shall send an automated email to both students and lectures of approv
 The system shall allow admin to manage students and lectuers to the system.
 The system shall allow admins to proform adminatraive tasks, how many sessions have occured in weeks or months.
 The system shall display info such as the contact info for student services and appointment in a tidy display with no other info obsuring each other.
-
+The system shall allow admins to scroll throw student and lectuer lists.
 
 
 
