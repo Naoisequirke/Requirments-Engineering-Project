@@ -54,7 +54,13 @@ The system shall allow admins to proform adminatraive tasks, how many sessions h
 The system shall display info such as the contact info for student services and appointment in a tidy display with no other info obsuring each other.
 The system shall allow admins to scroll throw student and lectuer lists.
 
-
+Quality requirments:
+Security:
+Security is very important for a booking system, as it contains senstive information such as users names and emails as well as location they are planning to be at a certain time.
+If security was implamented, people could also take people off of the system via admin, making them unable to use the system.
+Privacy: 
+Privacy is important as it shares simular concerns as secuity does. it prevents students from seeing each others appointments which contains their id's and times as well as what they need support in, which for some could be very private for them and not what people to see.
+Accessibility: 
 
 
 
