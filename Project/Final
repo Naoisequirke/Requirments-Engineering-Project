@@ -41,18 +41,18 @@ if the staff need to check the system to see appointments for them or are sent a
 
 
 Requirements:
-The system shall display appointment slots from lecterers that are currently available. 
-The system shall stop the need for staff to manually adjust the appointments by managing the appointments.
-The system will protect info about students and appointments.
-The system shall take given a appointment and will add them to that lectuers appointments secudule.
-The system shall record date of time of appointments.
-The system shall allow students to manage their appointments by creating, updating and canceling their appointments.
-The system shall allow lectures to manage, create, update their appointment slots and confirm appointments.
+The system shall display appointment slots from lecterers that are currently available. *
+The system shall stop the need for staff to manually adjust the appointments by managing the appointments. 
+The system will protect info about students and appointments by making it not accessable to users who are not the students or lecurer. 
+The system shall take given a appointment and will add them to that lectuers appointments secudule. *
+The system shall record date of time of appointments. *
+The system shall allow students to manage their appointments by creating, updating and canceling their appointments. *
+The system shall allow lectures to manage, create, update their appointment slots and confirm appointments. *
 The system shall send an automated email to both students and lectures of approved meeting.
-The system shall allow admin to manage students and lectuers to the system.
-The system shall allow admins to proform adminatraive tasks, how many sessions have occured in weeks or months.
+The system shall allow admin to manage students and lectuers to the system. *
+The system shall allow admins to proform adminatraive tasks, how many sessions have occured in weeks or months. *
 The system shall display info such as the contact info for student services and appointment in a tidy display with no other info obsuring each other.
-The system shall allow admins to scroll throw student and lectuer lists.
+The system shall allow admins to scroll throw student and lectuer lists. *
 
 Quality requirments:
 Security:
@@ -72,11 +72,18 @@ FR6: Part of this requirment is needed for the system to be of any use, but it a
 as well as potientally giving another student an chance to take their place if another student is looking to have an appointment.
 NR1: This helps both student and lecturer by making it easier to remember the dates of appointments and eliminates the need to go into the system every time a user wants to see their appointments, 
 as well as show that the meeting was approved. 
-FR10: This requirment is needed for the admin to be able to view all of the students and lectuer names and id's due to their being too many to view without the need to squeeze each one into one screen 
+CR10: This requirment is needed for the admin to be able to view all of the students and lectuer names and id's due to their being too many to view without the need to squeeze each one into one screen 
 and have them be one percent of the screen size in order to fit them all.
 
+Changes:
+Deleted some reqirments
+Turned fuctional requirments to candidate 
 
-
+Agile requirments
+ID
+CR    The student is not able to view another student's information such as appointments.  CR  Proposed  Candidate  Secruity  Secuity test.
+NFR   The system should load under four seconds NF Proposed Candidate search feedback Timed load test.   
+NFR   The user should revieve an email once they have made a booking.   NFR   Proposed   candidate   Functionity feedback   Email test.
 
 
 
