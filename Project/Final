@@ -44,7 +44,7 @@ Requirements:
 The system shall display appointment slots from lecterers that are currently available. 
 The system shall stop the need for staff to manually adjust the appointments by managing the appointments.
 The system will protect info about students and appointments.
-The system shall take given a appointments and will add them to that lectuers appointments secudule.
+The system shall take given a appointment and will add them to that lectuers appointments secudule.
 The system shall record date of time of appointments.
 The system shall allow students to manage their appointments by creating, updating and canceling their appointments.
 The system shall allow lectures to manage, create, update their appointment slots and confirm appointments.
@@ -59,9 +59,21 @@ Security:
 Security is very important for a booking system, as it contains senstive information such as users names and emails as well as location they are planning to be at a certain time.
 If security was implamented, people could also take people off of the system via admin, making them unable to use the system.
 Privacy: 
-Privacy is important as it shares simular concerns as secuity does. it prevents students from seeing each others appointments which contains their id's and times as well as what they need support in, which for some could be very private for them and not what people to see.
-Accessibility: 
+Privacy is important as it shares simular concerns as secuity does. it prevents students from seeing each others appointments which contains their id's and times as well as what they need support in, 
+which for some could be very private for them and not what people to see.
+Accessibility:
+Many people will be using this system, so the system has to be able to accomdate all of their disabilties and other factors like language so they all access it.
 
+Prioritisation:
+FR1: This requirment is needed because without it, the system is unable to be of any use.
+FR3: This requirment is needed for secuirty and privacy of all users using the system.
+FR4: This requirment is needed because without it, the system is unable to be of any use.
+FR6: Part of this requirment is needed for the system to be of any use, but it also helps by letting the student inform the lecturer that they wont be attending an already sceduled meeting by canceling it , 
+as well as potientally giving another student an chance to take their place if another student is looking to have an appointment.
+NR1: This helps both student and lecturer by making it easier to remember the dates of appointments and eliminates the need to go into the system every time a user wants to see their appointments, 
+as well as show that the meeting was approved. 
+FR10: This requirment is needed for the admin to be able to view all of the students and lectuer names and id's due to their being too many to view without the need to squeeze each one into one screen 
+and have them be one percent of the screen size in order to fit them all.
 
 
 
